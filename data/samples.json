@@ -1,0 +1,32 @@
+[
+  {
+    "roughness": 0.1,
+    "n_dot_v": 0.9,
+    "expect_min": 0.02,
+    "expect_max": 0.35
+  },
+  {
+    "roughness": 0.35,
+    "n_dot_v": 0.6,
+    "expect_min": 0.02,
+    "expect_max": 0.3
+  },
+  {
+    "roughness": 0.7,
+    "n_dot_v": 0.3,
+    "expect_min": 0.02,
+    "expect_max": 0.25
+  },
+  {
+    "roughness": 0.95,
+    "n_dot_v": 0.05,
+    "expect_min": 0.01,
+    "expect_max": 0.2
+  },
+  {
+    "roughness": 0.1,
+    "n_dot_v": 1.0,
+    "expect_min": 0.01,
+    "expect_max": 0.4
+  }
+]
